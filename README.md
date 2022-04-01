@@ -463,6 +463,6 @@ Milvus adopts dependencies from the following:
 - Thanks to [Pulsar](https://github.com/apache/pulsar) for its wonderful distributed pub-sub messaging system.
 - Thanks to [RocksDB](https://github.com/facebook/rocksdb) for the powerful storage engines.
 
-Milvus is adopted by following opensource project:
+Milvus is adopted by following opensource  project:
 - [Towhee](https://github.com/towhee-io/towhee) a flexible, application-oriented framework for computing embedding vectors over unstructured data.
 - [Haystack](https://github.com/deepset-ai/haystack) an open source NLP framework that leverages Transformer models
